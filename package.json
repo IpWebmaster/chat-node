@@ -1,0 +1,23 @@
+{
+  "name": "chatrooms",
+  "version": "0.0.1",
+  "description": "Minimalist multiroom chat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IpWebmaster/chat-node.git"
+  },
+  "author": "iv.popov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IpWebmaster/chat-node/issues"
+  },
+  "homepage": "https://github.com/IpWebmaster/chat-node#readme",
+  "dependencies": {
+    "mime": "^1.3.4",
+    "socket.io": "^1.3.7"
+  }
+}
